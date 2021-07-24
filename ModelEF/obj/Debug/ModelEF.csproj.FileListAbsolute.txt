@@ -1,0 +1,24 @@
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\KimAnh\source\repos\Web bán điện thoại MVC\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.pdb
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.dll.config
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.dll
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\ModelEF.pdb
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.dll
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.xml
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.dll
+D:\WebBanDienThoai-main\BuiNguyenNgocHuy\ModelEF\obj\Debug\ModelEF.pdb
